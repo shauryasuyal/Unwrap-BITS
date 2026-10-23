@@ -11,7 +11,8 @@ An AI gift finder that builds a persona of the person you're shopping for, then 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
-Built by **Team Suits and Slides** for the **Product Case Competition at BITS Pilani**
+🏆 **Winner, Product Case Competition, APOGEE'26, BITS Pilani** (national level)<br/>
+Built by **Team Suits and Slides**
 
 </div>
 
